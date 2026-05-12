@@ -78,3 +78,26 @@ Event correlation
 
 Threat prioritization
 ______________________________________________________________________________________
+### 📊 Log Management
+<img width="1063" height="484" alt="image" src="https://github.com/user-attachments/assets/68cd4bb5-9a20-4c60-82d6-c51c9133cb1e" />
+
+Centralized event analysis and security log investigation.
+
+| Field                 | Purpose                  |
+| --------------------- | ------------------------ |
+| `source_address`      | Identify attacker/source |
+| `destination_address` | Target system            |
+| `source_port`         | Originating service      |
+| `destination_port`    | Targeted service         |
+| `raw_log`             | Full event visibility    |
+| `type`                | Event classification     |
+
+#### Investigation Capabilities
+Event searching
+
+Traffic analysis
+
+IOC identification
+
+Attack timeline reconstruction
+______________________________________________________________________________________
