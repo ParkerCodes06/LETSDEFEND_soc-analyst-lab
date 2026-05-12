@@ -103,3 +103,51 @@ Attack timeline reconstruction
 ______________________________________________________________________________________
 ### 📁 Case Management
 <img width="1200" height="567" alt="image" src="https://github.com/user-attachments/assets/e951c860-3846-49a0-841f-66293fddd410" />
+SOC-style incident documentation and workflow tracking.
+
+#### Workflow
+
+Open investigation
+
+Analyze evidence
+
+Document findings
+
+Assign root cause
+
+Close or escalate incident
+
+####Purpose
+
+Structured investigations
+
+Incident lifecycle tracking
+
+Documentation of findings
+
+SOC process simulation
+______________________________________________________________________________________
+### 💻 Endpoint Security
+<img width="1200" height="456" alt="image" src="https://github.com/user-attachments/assets/7b76923a-79b6-4af9-8ca6-ee3b694b4744" />
+Endpoint visibility and device-level investigation.
+
+#### Investigation Areas
+
+Suspicious processes
+
+Malware execution
+
+Persistence mechanisms
+
+Privilege escalation attempts
+
+Host anomalies
+
+#### SOC Activities
+
+Endpoint inspection
+
+Process monitoring
+
+Behavioral analysis
+_____________________________________________________________________________________
