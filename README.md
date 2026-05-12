@@ -117,7 +117,7 @@ Assign root cause
 
 Close or escalate incident
 
-####Purpose
+#### Purpose
 
 Structured investigations
 
@@ -151,3 +151,70 @@ Process monitoring
 
 Behavioral analysis
 _____________________________________________________________________________________
+### 📧 Email Security
+<img width="1248" height="386" alt="image" src="https://github.com/user-attachments/assets/a9aff732-561d-43aa-ab58-287f28ea1ce2" />
+
+Analysis of phishing and email-based attacks.
+
+#### Analysis Areas
+
+Header analysis
+
+Email spoofing detection
+
+Attachment inspection
+
+Malicious URL analysis
+
+Sender reputation validation
+
+#### Detection Focus
+
+Phishing indicators
+
+Social engineering attempts
+
+Suspicious domains
+
+Malicious payload delivery
+______________________________________________________________________________________
+### 🧠 Threat Intelligence
+<img width="1237" height="498" alt="image" src="https://github.com/user-attachments/assets/c9015766-4a46-4f50-bcd2-59745f5f29c4" />
+
+Threat enrichment and IOC validation.
+
+### Used For
+
+IP reputation analysis
+
+Domain intelligence
+
+IOC correlation
+
+Blacklist verification
+
+Threat actor infrastructure analysis
+______________________________________________________________________________________
+🧪 Sandbox Environment
+<img width="1232" height="435" alt="image" src="https://github.com/user-attachments/assets/57f267a4-ebe2-4066-8484-f04debf5af40" />
+
+Safe malware execution environment for Linux and Windows.
+
+#### Capabilities
+
+Suspicious file execution
+
+Malware behavior analysis
+
+Network activity inspection
+
+Dynamic analysis
+
+Safe testing environment
+
+#### Platforms
+
+Windows Sandbox
+
+Linux Sandbox
+______________________________________________________________________________________
