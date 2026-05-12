@@ -101,3 +101,5 @@ IOC identification
 
 Attack timeline reconstruction
 ______________________________________________________________________________________
+### 📁 Case Management
+<img width="1200" height="567" alt="image" src="https://github.com/user-attachments/assets/e951c860-3846-49a0-841f-66293fddd410" />
